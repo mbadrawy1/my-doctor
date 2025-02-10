@@ -9,7 +9,7 @@ Clone the repository and follow the steps below to run the backend and frontend.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/my-doctor-project.git
+git clone https://github.com/mbadrawy1/my-doctor.git
 ```
 
 ### 2. Navigate to the Backend Folder

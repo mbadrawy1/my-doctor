@@ -1,4 +1,3 @@
-```markdown
 # My-Doctor Project Setup Guide
 
 🚀 **Quick Start**  
